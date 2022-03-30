@@ -1,0 +1,138 @@
+/*--------------home----------------*/
+
+.wrapper{
+    height:660px;
+    width:100%;
+   
+}
+
+header{
+    height:130px;
+    width:100%;
+    background-color: black;  
+}
+
+section{
+    height:500px;
+    width:100%;
+    background-color: grey; 
+    text-align:center;
+}
+
+footer{
+    height:80px;
+    width:100%;
+    background-color: black;
+    
+}
+
+.logo{
+    background-image: url("image/2.jpeg");
+    height: 120px;
+    width:105px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
+    border:2px solid white;
+}
+/*--heading--*/
+.head{
+    width:500px;
+    float:left;
+    color:white;
+    padding-top: 30px;
+    margin-left: 5px;
+}
+li a{
+    color:white;
+    text-decoration: none;
+    border:1px solid white;
+    border-radius: 20%;
+}
+nav{
+    float:right;
+    word-spacing: 15px;
+    padding:0px;
+}
+
+nav li{
+    display:inline-block;
+    line-height: 80px;
+}
+
+
+section .sec_img{
+    height:500px;
+    width:100%;
+    margin-top: 0px;
+    background-image: url("image/Home.jpg");  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*-------welcome box----*/
+.Box{
+    height:200px;
+    width:450px;
+    background-color:#030002;
+    margin:40px auto;
+    opacity: .8;
+    color:white;
+}
+
+/*------Student_login----*/
+.log_img{
+    height:500px;
+    width:100%;
+    margin-top: 0px;
+    background-image: url("image/Home.jpg");  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box1{
+    height:350px;
+    width:450px;
+    background-color:#030002;
+    margin:40px auto;
+    opacity: .8;
+    color:white;
+    border:5px solid white;
+    border-radius: 20%
+}
+
+form .login{
+    padding:auto 70px;
+}
+
+/*-------registration-----*/
+.reg_img{
+    height:550px;
+    width:100%;
+    margin-top: 0px;
+    background-image: url("image/Home.jpg");  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Box2{
+    height:500px;
+    width:450px;
+    background-color:#030002;
+    margin:0px auto;
+    opacity: 1;
+    color:white;
+    border:5px solid white;
+    border-radius: 20%;
+}
+form #gender{
+    margin:0px;
+}
+/*------Books---------*/
+
+
